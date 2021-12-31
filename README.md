@@ -1,10 +1,5 @@
 # ECE6122-Lab1-Problem1-SumPrime
-
-Author: Deanna Gierzak
-Class: ECE 6122
 Last Date Modified: 9/8/2020
-
-Description:
 
 Sum of Primes:
 
