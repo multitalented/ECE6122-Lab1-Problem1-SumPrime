@@ -9,7 +9,11 @@ The resulting sum is output to a file calling Output1.txt
 
 
 Example execution in command line:
+
 ~$  g++ .\*.cpp a.exe
+
 ~$  a.exe 13
+
 ~$ cat Output1.txt
+
 41
